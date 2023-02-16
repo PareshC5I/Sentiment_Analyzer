@@ -1,0 +1,5 @@
+scikit-learn
+itertools
+streamlit
+numpy
+matplotlib
